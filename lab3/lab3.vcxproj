@@ -139,10 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="homework.c" />
-    <ClCompile Include="task1.c" />
-    <ClCompile Include="task2.c" />
-    <ClCompile Include="task3.c" />
+    <ClCompile Include="code.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
